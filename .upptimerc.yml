@@ -27,7 +27,7 @@ status-website:
   baseUrl: /status
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Live Status
-  introTitle:
+  introTitle: ''
   introMessage:
   navbar:
     - title: Status
