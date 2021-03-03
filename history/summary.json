@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 104,
-    "timeDay": 52,
-    "timeWeek": 104,
-    "timeMonth": 100,
-    "timeYear": 104,
+    "time": 105,
+    "timeDay": 113,
+    "timeWeek": 101,
+    "timeMonth": 101,
+    "timeYear": 105,
     "dailyMinutesDown": {}
   },
   {
@@ -23,19 +23,17 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.57%",
-    "uptimeWeek": "99.94%",
-    "uptimeMonth": "99.99%",
-    "uptimeYear": "99.99%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 1433,
-    "timeDay": 984,
-    "timeWeek": 1305,
-    "timeMonth": 1413,
+    "timeDay": 974,
+    "timeWeek": 1296,
+    "timeMonth": 1411,
     "timeYear": 1433,
-    "dailyMinutesDown": {
-      "2021-03-02": 6
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "CuriousitariumDCZ",
@@ -49,8 +47,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 100,
-    "timeDay": 30,
-    "timeWeek": 61,
+    "timeDay": 72,
+    "timeWeek": 56,
     "timeMonth": 73,
     "timeYear": 100,
     "dailyMinutesDown": {}
@@ -66,11 +64,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 136,
-    "timeDay": 195,
-    "timeWeek": 154,
-    "timeMonth": 122,
-    "timeYear": 136,
+    "time": 135,
+    "timeDay": 113,
+    "timeWeek": 152,
+    "timeMonth": 123,
+    "timeYear": 135,
     "dailyMinutesDown": {}
   },
   {
@@ -84,11 +82,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 110,
-    "timeDay": 80,
-    "timeWeek": 113,
-    "timeMonth": 103,
-    "timeYear": 110,
+    "time": 111,
+    "timeDay": 136,
+    "timeWeek": 116,
+    "timeMonth": 105,
+    "timeYear": 111,
     "dailyMinutesDown": {}
   },
   {
@@ -102,11 +100,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 304,
-    "timeDay": 644,
-    "timeWeek": 223,
-    "timeMonth": 295,
-    "timeYear": 304,
+    "time": 301,
+    "timeDay": 149,
+    "timeWeek": 212,
+    "timeMonth": 296,
+    "timeYear": 301,
     "dailyMinutesDown": {
       "2021-01-26": 15
     }
