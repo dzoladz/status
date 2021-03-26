@@ -94,17 +94,17 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 285,
-    "timeDay": 94,
-    "timeWeek": 385,
-    "timeMonth": 248,
-    "timeYear": 285,
+    "time": 284,
+    "timeDay": 164,
+    "timeWeek": 368,
+    "timeMonth": 247,
+    "timeYear": 284,
     "dailyMinutesDown": {
       "2021-01-26": 15
     }
