@@ -23,11 +23,11 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "up",
-    "uptime": "98.07%",
+    "uptime": "98.08%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.07%",
+    "uptimeYear": "98.08%",
     "time": 1457,
     "timeDay": 1370,
     "timeWeek": 1479,
@@ -101,9 +101,9 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
@@ -113,6 +113,7 @@
     "timeMonth": 286,
     "timeYear": 305,
     "dailyMinutesDown": {
+      "2021-07-12": 0,
       "2021-01-26": 15
     }
   }
