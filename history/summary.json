@@ -65,9 +65,9 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -76,7 +76,9 @@
     "timeWeek": 214,
     "timeMonth": 193,
     "timeYear": 146,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-09-02": 0
+    }
   },
   {
     "name": "TEDSIG Speculative Library Futures",
