@@ -105,9 +105,9 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -117,6 +117,7 @@
     "timeMonth": 236,
     "timeYear": 289,
     "dailyMinutesDown": {
+      "2022-04-14": 0,
       "2022-02-03": 18,
       "2021-12-15": 26,
       "2021-11-16": 40
