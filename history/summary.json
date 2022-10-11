@@ -31,14 +31,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.94%",
+    "uptimeYear": "58.93%",
     "time": 1045,
     "timeDay": 245,
     "timeWeek": 136,
     "timeMonth": 133,
-    "timeYear": 909,
+    "timeYear": 908,
     "dailyMinutesDown": {
-      "2022-10-11": 1389,
+      "2022-10-11": 1416,
       "2022-10-10": 1440,
       "2022-10-09": 1440,
       "2022-10-08": 1440,
@@ -209,7 +209,7 @@
     "timeDay": 121,
     "timeWeek": 53,
     "timeMonth": 59,
-    "timeYear": 58,
+    "timeYear": 59,
     "dailyMinutesDown": {}
   },
   {
@@ -217,11 +217,11 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "99.72%",
-    "uptimeWeek": "99.96%",
-    "uptimeMonth": "99.92%",
+    "uptimeDay": "99.98%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "99.93%",
     "uptimeYear": "99.99%",
     "time": 220,
     "timeDay": 3118,
@@ -229,7 +229,7 @@
     "timeMonth": 386,
     "timeYear": 229,
     "dailyMinutesDown": {
-      "2022-10-11": 4,
+      "2022-10-11": 0,
       "2022-09-15": 32
     }
   },
@@ -268,7 +268,7 @@
     "timeDay": 157,
     "timeWeek": 547,
     "timeMonth": 430,
-    "timeYear": 406,
+    "timeYear": 407,
     "dailyMinutesDown": {
       "2022-08-31": 16,
       "2022-05-31": 15,
