@@ -11,13 +11,12 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 145,
-    "timeDay": 182,
-    "timeWeek": 148,
+    "timeDay": 213,
+    "timeWeek": 152,
     "timeMonth": 137,
     "timeYear": 142,
     "dailyMinutesDown": {
-      "2022-09-15": 32,
-      "2022-07-08": 28
+      "2022-09-15": 32
     }
   },
   {
@@ -26,18 +25,20 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "53.88%",
+    "uptime": "53.77%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
     "uptimeYear": "0.00%",
-    "time": 363,
-    "timeDay": 235,
-    "timeWeek": 201,
-    "timeMonth": 162,
+    "time": 358,
+    "timeDay": 160,
+    "timeWeek": 188,
+    "timeMonth": 157,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-07-06": 17,
+      "2023-07-08": 16,
+      "2023-07-07": 1440,
+      "2023-07-06": 1440,
       "2023-07-05": 1440,
       "2023-07-04": 1440,
       "2023-07-03": 1440,
@@ -399,9 +400,7 @@
       "2022-07-12": 1440,
       "2022-07-11": 1440,
       "2022-07-10": 1440,
-      "2022-07-09": 1440,
-      "2022-07-08": 1440,
-      "2022-07-07": 1440
+      "2022-07-09": 1440
     }
   },
   {
@@ -416,9 +415,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 116,
-    "timeWeek": 89,
-    "timeMonth": 70,
+    "timeDay": 82,
+    "timeWeek": 81,
+    "timeMonth": 66,
     "timeYear": 68,
     "dailyMinutesDown": {}
   },
@@ -433,11 +432,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 226,
-    "timeDay": 307,
-    "timeWeek": 257,
-    "timeMonth": 218,
-    "timeYear": 235,
+    "time": 227,
+    "timeDay": 285,
+    "timeWeek": 255,
+    "timeMonth": 223,
+    "timeYear": 236,
     "dailyMinutesDown": {
       "2022-10-12": 41,
       "2022-10-11": 1,
@@ -455,10 +454,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 228,
-    "timeDay": 329,
-    "timeWeek": 250,
-    "timeMonth": 222,
+    "time": 229,
+    "timeDay": 288,
+    "timeWeek": 255,
+    "timeMonth": 219,
     "timeYear": 241,
     "dailyMinutesDown": {
       "2022-09-15": 32
@@ -476,10 +475,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 446,
-    "timeDay": 904,
-    "timeWeek": 402,
+    "timeDay": 415,
+    "timeWeek": 427,
     "timeMonth": 321,
-    "timeYear": 446,
+    "timeYear": 443,
     "dailyMinutesDown": {
       "2022-12-10": 17,
       "2022-08-31": 16
