@@ -9,15 +9,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 145,
-    "timeDay": 250,
-    "timeWeek": 140,
-    "timeMonth": 144,
-    "timeYear": 143,
-    "dailyMinutesDown": {
-      "2022-09-15": 32
-    }
+    "uptimeYear": "100.00%",
+    "time": 153,
+    "timeDay": 132,
+    "timeWeek": 703,
+    "timeMonth": 270,
+    "timeYear": 153,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Koha",
@@ -25,18 +23,25 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "50.09%",
+    "uptime": "49.74%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 186,
-    "timeDay": 273,
-    "timeWeek": 141,
-    "timeMonth": 137,
+    "time": 170,
+    "timeDay": 69,
+    "timeWeek": 127,
+    "timeMonth": 138,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-09-13": 13,
+      "2023-09-20": 13,
+      "2023-09-19": 1440,
+      "2023-09-18": 1440,
+      "2023-09-17": 1440,
+      "2023-09-16": 1440,
+      "2023-09-15": 1440,
+      "2023-09-14": 1440,
+      "2023-09-13": 1440,
       "2023-09-12": 1440,
       "2023-09-11": 1440,
       "2023-09-10": 1440,
@@ -393,14 +398,7 @@
       "2022-09-24": 1440,
       "2022-09-23": 1440,
       "2022-09-22": 1440,
-      "2022-09-21": 1440,
-      "2022-09-20": 1440,
-      "2022-09-19": 1440,
-      "2022-09-18": 1440,
-      "2022-09-17": 1440,
-      "2022-09-16": 1440,
-      "2022-09-15": 1440,
-      "2022-09-14": 1440
+      "2022-09-21": 1440
     }
   },
   {
@@ -415,8 +413,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 61,
-    "timeWeek": 52,
+    "timeDay": 39,
+    "timeWeek": 70,
     "timeMonth": 68,
     "timeYear": 68,
     "dailyMinutesDown": {}
@@ -432,15 +430,14 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 236,
-    "timeDay": 142,
-    "timeWeek": 198,
-    "timeMonth": 225,
-    "timeYear": 240,
+    "time": 237,
+    "timeDay": 249,
+    "timeWeek": 301,
+    "timeMonth": 239,
+    "timeYear": 241,
     "dailyMinutesDown": {
       "2022-10-12": 41,
-      "2022-10-11": 1,
-      "2022-09-15": 32
+      "2022-10-11": 1
     }
   },
   {
@@ -453,15 +450,13 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.99%",
-    "time": 236,
-    "timeDay": 170,
-    "timeWeek": 209,
-    "timeMonth": 214,
+    "uptimeYear": "100.00%",
+    "time": 238,
+    "timeDay": 404,
+    "timeWeek": 296,
+    "timeMonth": 228,
     "timeYear": 245,
-    "dailyMinutesDown": {
-      "2022-09-15": 32
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ALAO 2020",
@@ -475,10 +470,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 455,
-    "timeDay": 427,
-    "timeWeek": 281,
-    "timeMonth": 316,
-    "timeYear": 417,
+    "timeDay": 281,
+    "timeWeek": 291,
+    "timeMonth": 303,
+    "timeYear": 416,
     "dailyMinutesDown": {
       "2022-12-10": 17
     }
