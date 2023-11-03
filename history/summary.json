@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 127,
-    "timeWeek": 135,
-    "timeMonth": 146,
-    "timeYear": 154,
+    "timeDay": 111,
+    "timeWeek": 138,
+    "timeMonth": 147,
+    "timeYear": 153,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "47.66%",
+    "uptime": "47.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 151,
-    "timeDay": 184,
-    "timeWeek": 108,
-    "timeMonth": 143,
+    "timeDay": 28,
+    "timeWeek": 102,
+    "timeMonth": 142,
     "timeYear": 154,
     "dailyMinutesDown": {
-      "2023-11-02": 13,
+      "2023-11-03": 14,
+      "2023-11-02": 1440,
       "2023-11-01": 1440,
       "2023-10-31": 1440,
       "2023-10-30": 1440,
@@ -397,8 +398,7 @@
       "2022-11-07": 1440,
       "2022-11-06": 1440,
       "2022-11-05": 1440,
-      "2022-11-04": 1440,
-      "2022-11-03": 1440
+      "2022-11-04": 1440
     }
   },
   {
@@ -413,9 +413,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 68,
-    "timeDay": 125,
-    "timeWeek": 83,
-    "timeMonth": 71,
+    "timeDay": 107,
+    "timeWeek": 94,
+    "timeMonth": 74,
     "timeYear": 70,
     "dailyMinutesDown": {}
   },
@@ -431,9 +431,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 91,
-    "timeWeek": 225,
-    "timeMonth": 204,
+    "timeDay": 320,
+    "timeWeek": 237,
+    "timeMonth": 205,
     "timeYear": 227,
     "dailyMinutesDown": {}
   },
@@ -449,10 +449,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 237,
-    "timeDay": 177,
-    "timeWeek": 232,
+    "timeDay": 110,
+    "timeWeek": 222,
     "timeMonth": 216,
-    "timeYear": 223,
+    "timeYear": 222,
     "dailyMinutesDown": {}
   },
   {
@@ -467,10 +467,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 413,
-    "timeDay": 243,
-    "timeWeek": 256,
-    "timeMonth": 259,
-    "timeYear": 406,
+    "timeDay": 161,
+    "timeWeek": 246,
+    "timeMonth": 257,
+    "timeYear": 405,
     "dailyMinutesDown": {
       "2022-12-10": 17
     }
