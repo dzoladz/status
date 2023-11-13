@@ -34,7 +34,7 @@
     "timeMonth": 113,
     "timeYear": 153,
     "dailyMinutesDown": {
-      "2023-11-13": 380,
+      "2023-11-13": 388,
       "2023-11-12": 1440,
       "2023-11-11": 1440,
       "2023-11-10": 1440,
@@ -424,19 +424,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.94%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.37%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 235,
-    "timeDay": 248,
-    "timeWeek": 218,
-    "timeMonth": 212,
-    "timeYear": 228,
+    "timeDay": 252,
+    "timeWeek": 223,
+    "timeMonth": 213,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-11-13": 1
+      "2023-11-13": 9
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 236,
-    "timeDay": 181,
-    "timeWeek": 215,
-    "timeMonth": 197,
-    "timeYear": 223,
+    "time": 245,
+    "timeDay": 2633,
+    "timeWeek": 824,
+    "timeMonth": 350,
+    "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-11-13": 0
+      "2023-11-13": 9
     }
   },
   {
