@@ -34,7 +34,7 @@
     "timeMonth": 112,
     "timeYear": 152,
     "dailyMinutesDown": {
-      "2023-11-22": 1423,
+      "2023-11-22": 1427,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
@@ -424,19 +424,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.49%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "99.17%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
-    "time": 235,
-    "timeDay": 218,
-    "timeWeek": 199,
-    "timeMonth": 221,
-    "timeYear": 228,
+    "time": 236,
+    "timeDay": 337,
+    "timeWeek": 231,
+    "timeMonth": 228,
+    "timeYear": 229,
     "dailyMinutesDown": {
-      "2023-11-22": 7
+      "2023-11-22": 12
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.63%",
+    "uptimeWeek": "99.95%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 217,
-    "timeWeek": 200,
-    "timeMonth": 353,
+    "timeDay": 231,
+    "timeWeek": 206,
+    "timeMonth": 349,
     "timeYear": 236,
     "dailyMinutesDown": {
-      "2023-11-22": 1
+      "2023-11-22": 5
     }
   },
   {
@@ -464,19 +464,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.53%",
-    "uptimeWeek": "99.93%",
-    "uptimeMonth": "99.98%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.21%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
     "time": 388,
-    "timeDay": 244,
-    "timeWeek": 207,
-    "timeMonth": 228,
+    "timeDay": 314,
+    "timeWeek": 227,
+    "timeMonth": 233,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-11-22": 7,
+      "2023-11-22": 11,
       "2022-12-10": 17
     }
   }
