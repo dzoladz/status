@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 150,
-    "timeDay": 72,
-    "timeWeek": 112,
-    "timeMonth": 135,
-    "timeYear": 153,
+    "timeDay": 205,
+    "timeWeek": 119,
+    "timeMonth": 136,
+    "timeYear": 154,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,21 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "46.71%",
+    "uptime": "46.62%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
     "time": 149,
-    "timeDay": 63,
-    "timeWeek": 118,
-    "timeMonth": 112,
-    "timeYear": 152,
+    "timeDay": 35,
+    "timeWeek": 119,
+    "timeMonth": 106,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2023-11-22": 1427,
+      "2023-11-25": 14,
+      "2023-11-24": 1440,
+      "2023-11-23": 1440,
+      "2023-11-22": 1440,
       "2023-11-21": 1440,
       "2023-11-20": 1440,
       "2023-11-19": 1440,
@@ -395,10 +398,7 @@
       "2022-11-29": 1440,
       "2022-11-28": 1440,
       "2022-11-27": 1440,
-      "2022-11-26": 1440,
-      "2022-11-25": 1440,
-      "2022-11-24": 1440,
-      "2022-11-23": 1440
+      "2022-11-26": 1440
     }
   },
   {
@@ -413,8 +413,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 67,
-    "timeDay": 24,
-    "timeWeek": 38,
+    "timeDay": 101,
+    "timeWeek": 36,
     "timeMonth": 61,
     "timeYear": 68,
     "dailyMinutesDown": {}
@@ -425,19 +425,17 @@
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
     "status": "up",
-    "uptime": "99.99%",
-    "uptimeDay": "99.17%",
-    "uptimeWeek": "99.88%",
-    "uptimeMonth": "99.97%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 236,
-    "timeDay": 337,
-    "timeWeek": 231,
-    "timeMonth": 228,
-    "timeYear": 229,
-    "dailyMinutesDown": {
-      "2023-11-22": 12
-    }
+    "timeDay": 296,
+    "timeWeek": 224,
+    "timeMonth": 230,
+    "timeYear": 228,
+    "dailyMinutesDown": {}
   },
   {
     "name": "TEDSIG Speculative Library Futures",
@@ -446,18 +444,16 @@
     "slug": "tedsig-speculative-library-futures",
     "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.63%",
-    "uptimeWeek": "99.95%",
-    "uptimeMonth": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 246,
-    "timeDay": 231,
-    "timeWeek": 206,
-    "timeMonth": 349,
+    "timeDay": 190,
+    "timeWeek": 203,
+    "timeMonth": 351,
     "timeYear": 236,
-    "dailyMinutesDown": {
-      "2023-11-22": 5
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "ALAO 2020",
@@ -466,17 +462,16 @@
     "slug": "alao-2020",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.21%",
-    "uptimeWeek": "99.89%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.99%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 388,
-    "timeDay": 314,
-    "timeWeek": 227,
-    "timeMonth": 233,
+    "timeDay": 239,
+    "timeWeek": 213,
+    "timeMonth": 231,
     "timeYear": 401,
     "dailyMinutesDown": {
-      "2023-11-22": 11,
       "2022-12-10": 17
     }
   }
