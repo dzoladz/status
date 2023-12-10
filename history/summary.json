@@ -34,7 +34,7 @@
     "timeMonth": 80,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-10": 1284,
+      "2023-12-10": 1289,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -442,19 +442,19 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.60%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
-    "time": 254,
-    "timeDay": 1356,
-    "timeWeek": 637,
-    "timeMonth": 464,
+    "time": 253,
+    "timeDay": 1110,
+    "timeWeek": 591,
+    "timeMonth": 455,
     "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-12-10": 1
+      "2023-12-10": 6
     }
   },
   {
@@ -464,9 +464,9 @@
     "slug": "alao-2020",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.05%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "98.64%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 119,
@@ -474,7 +474,7 @@
     "timeMonth": 202,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-12-10": 14
+      "2023-12-10": 20
     }
   }
 ]
