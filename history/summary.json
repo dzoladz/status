@@ -12,7 +12,7 @@
     "uptimeYear": "100.00%",
     "time": 149,
     "timeDay": 0,
-    "timeWeek": 119,
+    "timeWeek": 127,
     "timeMonth": 124,
     "timeYear": 151,
     "dailyMinutesDown": {}
@@ -30,11 +30,11 @@
     "uptimeYear": "0.00%",
     "time": 147,
     "timeDay": 0,
-    "timeWeek": 64,
+    "timeWeek": 63,
     "timeMonth": 81,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-10": 1384,
+      "2023-12-10": 1392,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -414,7 +414,7 @@
     "uptimeYear": "100.00%",
     "time": 66,
     "timeDay": 0,
-    "timeWeek": 43,
+    "timeWeek": 44,
     "timeMonth": 48,
     "timeYear": 67,
     "dailyMinutesDown": {}
@@ -432,7 +432,7 @@
     "uptimeYear": "100.00%",
     "time": 287,
     "timeDay": 4272,
-    "timeWeek": 2113,
+    "timeWeek": 2263,
     "timeMonth": 888,
     "timeYear": 292,
     "dailyMinutesDown": {
@@ -452,7 +452,7 @@
     "uptimeYear": "100.00%",
     "time": 282,
     "timeDay": 2826,
-    "timeWeek": 1495,
+    "timeWeek": 1605,
     "timeMonth": 809,
     "timeYear": 280,
     "dailyMinutesDown": {
@@ -464,19 +464,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.21%",
-    "uptimeWeek": "99.74%",
-    "uptimeMonth": "99.94%",
-    "uptimeYear": "100.00%",
-    "time": 412,
-    "timeDay": 3979,
-    "timeWeek": 1571,
-    "timeMonth": 639,
-    "timeYear": 390,
+    "uptimeDay": "97.65%",
+    "uptimeWeek": "99.66%",
+    "uptimeMonth": "99.92%",
+    "uptimeYear": "99.99%",
+    "time": 422,
+    "timeDay": 4188,
+    "timeWeek": 2004,
+    "timeMonth": 761,
+    "timeYear": 402,
     "dailyMinutesDown": {
-      "2023-12-10": 26
+      "2023-12-10": 34
     }
   }
 ]
