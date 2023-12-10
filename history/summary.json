@@ -34,7 +34,7 @@
     "timeMonth": 80,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-10": 1270,
+      "2023-12-10": 1277,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
       "2023-12-07": 1440,
@@ -424,19 +424,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.91%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.49%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 245,
-    "timeDay": 1584,
-    "timeWeek": 710,
-    "timeMonth": 353,
-    "timeYear": 238,
+    "time": 254,
+    "timeDay": 2449,
+    "timeWeek": 1143,
+    "timeMonth": 487,
+    "timeYear": 251,
     "dailyMinutesDown": {
-      "2023-12-10": 1
+      "2023-12-10": 7
     }
   },
   {
@@ -444,19 +444,19 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.95%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 244,
-    "timeDay": 128,
-    "timeWeek": 148,
-    "timeMonth": 330,
-    "timeYear": 230,
+    "time": 254,
+    "timeDay": 1356,
+    "timeWeek": 637,
+    "timeMonth": 464,
+    "timeYear": 243,
     "dailyMinutesDown": {
-      "2023-12-10": 1
+      "2023-12-10": 7
     }
   },
   {
@@ -466,9 +466,9 @@
     "slug": "alao-2020",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 383,
     "timeDay": 119,
@@ -476,7 +476,7 @@
     "timeMonth": 202,
     "timeYear": 351,
     "dailyMinutesDown": {
-      "2023-12-10": 0
+      "2023-12-10": 7
     }
   }
 ]
