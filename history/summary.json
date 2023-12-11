@@ -34,7 +34,7 @@
     "timeMonth": 81,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-11": 771,
+      "2023-12-11": 781,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -424,10 +424,10 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "96.96%",
-    "uptimeWeek": "99.57%",
+    "uptimeDay": "96.89%",
+    "uptimeWeek": "99.56%",
     "uptimeMonth": "99.90%",
     "uptimeYear": "99.99%",
     "time": 339,
@@ -436,7 +436,7 @@
     "timeMonth": 1386,
     "timeYear": 356,
     "dailyMinutesDown": {
-      "2023-12-11": 27,
+      "2023-12-11": 28,
       "2023-12-10": 17
     }
   },
@@ -445,9 +445,9 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "95.05%",
+    "uptimeDay": "95.01%",
     "uptimeWeek": "99.29%",
     "uptimeMonth": "99.84%",
     "uptimeYear": "99.99%",
@@ -457,7 +457,7 @@
     "timeMonth": 874,
     "timeYear": 291,
     "dailyMinutesDown": {
-      "2023-12-11": 48,
+      "2023-12-11": 49,
       "2023-12-10": 23
     }
   },
@@ -466,19 +466,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.98%",
-    "uptimeDay": "94.32%",
-    "uptimeWeek": "99.19%",
-    "uptimeMonth": "99.81%",
+    "uptimeDay": "93.64%",
+    "uptimeWeek": "99.09%",
+    "uptimeMonth": "99.79%",
     "uptimeYear": "99.98%",
-    "time": 458,
-    "timeDay": 4359,
-    "timeWeek": 2689,
-    "timeMonth": 1142,
-    "timeYear": 445,
+    "time": 484,
+    "timeDay": 3935,
+    "timeWeek": 2529,
+    "timeMonth": 1117,
+    "timeYear": 444,
     "dailyMinutesDown": {
-      "2023-12-11": 56,
+      "2023-12-11": 66,
       "2023-12-10": 26
     }
   }
