@@ -34,7 +34,7 @@
     "timeMonth": 81,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-11": 697,
+      "2023-12-11": 703,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -424,19 +424,19 @@
     "url": "https://tedsig.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "98.75%",
-    "uptimeWeek": "99.82%",
-    "uptimeMonth": "99.96%",
+    "uptimeDay": "98.40%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
-    "time": 308,
-    "timeDay": 4471,
-    "timeWeek": 2664,
-    "timeMonth": 1102,
-    "timeYear": 318,
+    "time": 318,
+    "timeDay": 4541,
+    "timeWeek": 2826,
+    "timeMonth": 1202,
+    "timeYear": 331,
     "dailyMinutesDown": {
-      "2023-12-11": 1,
+      "2023-12-11": 6,
       "2023-12-10": 17
     }
   },
@@ -467,9 +467,9 @@
     "slug": "alao-2020",
     "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "97.76%",
-    "uptimeWeek": "99.68%",
-    "uptimeMonth": "99.93%",
+    "uptimeDay": "97.34%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.91%",
     "uptimeYear": "99.99%",
     "time": 432,
     "timeDay": 3752,
@@ -477,7 +477,7 @@
     "timeMonth": 861,
     "timeYear": 414,
     "dailyMinutesDown": {
-      "2023-12-11": 7,
+      "2023-12-11": 13,
       "2023-12-10": 26
     }
   }
