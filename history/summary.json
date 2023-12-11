@@ -23,7 +23,7 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "45.93%",
+    "uptime": "45.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -34,7 +34,7 @@
     "timeMonth": 81,
     "timeYear": 146,
     "dailyMinutesDown": {
-      "2023-12-11": 15,
+      "2023-12-11": 678,
       "2023-12-10": 1440,
       "2023-12-09": 1440,
       "2023-12-08": 1440,
@@ -444,9 +444,9 @@
     "url": "https://futures.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "tedsig-speculative-library-futures",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "98.42%",
+    "uptimeDay": "98.39%",
     "uptimeWeek": "99.77%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
@@ -456,6 +456,7 @@
     "timeMonth": 809,
     "timeYear": 280,
     "dailyMinutesDown": {
+      "2023-12-11": 0,
       "2023-12-10": 23
     }
   },
