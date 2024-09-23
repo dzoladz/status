@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 147,
-    "timeDay": 197,
-    "timeWeek": 167,
-    "timeMonth": 164,
-    "timeYear": 140,
+    "timeDay": 68,
+    "timeWeek": 152,
+    "timeMonth": 162,
+    "timeYear": 139,
     "dailyMinutesDown": {
       "2024-04-16": 47
     }
@@ -25,16 +25,16 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "up",
-    "uptime": "52.36%",
+    "uptime": "52.39%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "59.61%",
-    "time": 1051,
-    "timeDay": 1906,
-    "timeWeek": 1874,
+    "uptimeYear": "59.89%",
+    "time": 1055,
+    "timeDay": 1913,
+    "timeWeek": 1875,
     "timeMonth": 1906,
-    "timeYear": 1288,
+    "timeYear": 1293,
     "dailyMinutesDown": {
       "2024-08-09": 64,
       "2024-07-23": 21,
@@ -185,8 +185,7 @@
       "2023-09-28": 1440,
       "2023-09-27": 1440,
       "2023-09-26": 1440,
-      "2023-09-25": 1440,
-      "2023-09-24": 1440
+      "2023-09-25": 1440
     }
   },
   {
@@ -219,10 +218,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 397,
-    "timeDay": 311,
-    "timeWeek": 245,
-    "timeMonth": 283,
-    "timeYear": 482,
+    "timeDay": 375,
+    "timeWeek": 267,
+    "timeMonth": 287,
+    "timeYear": 483,
     "dailyMinutesDown": {
       "2024-01-22": 29,
       "2023-12-11": 47,
@@ -241,9 +240,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 309,
-    "timeDay": 255,
-    "timeWeek": 183,
-    "timeMonth": 217,
+    "timeDay": 239,
+    "timeWeek": 200,
+    "timeMonth": 219,
     "timeYear": 333,
     "dailyMinutesDown": {
       "2024-01-22": 29,
@@ -263,9 +262,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 466,
-    "timeDay": 244,
-    "timeWeek": 364,
-    "timeMonth": 327,
+    "timeDay": 199,
+    "timeWeek": 366,
+    "timeMonth": 326,
     "timeYear": 516,
     "dailyMinutesDown": {
       "2024-01-22": 29,
