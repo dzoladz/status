@@ -11,8 +11,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 89,
-    "timeWeek": 118,
+    "timeDay": 163,
+    "timeWeek": 127,
     "timeMonth": 132,
     "timeYear": 140,
     "dailyMinutesDown": {
@@ -25,16 +25,16 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "up",
-    "uptime": "55.45%",
+    "uptime": "55.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "85.37%",
-    "time": 1205,
-    "timeDay": 1896,
-    "timeWeek": 1924,
-    "timeMonth": 1961,
-    "timeYear": 1746,
+    "uptimeYear": "85.64%",
+    "time": 1208,
+    "timeDay": 1829,
+    "timeWeek": 1899,
+    "timeMonth": 1959,
+    "timeYear": 1750,
     "dailyMinutesDown": {
       "2024-08-09": 64,
       "2024-07-23": 21,
@@ -91,8 +91,7 @@
       "2023-12-31": 1440,
       "2023-12-30": 1440,
       "2023-12-29": 1440,
-      "2023-12-28": 1440,
-      "2023-12-27": 1440
+      "2023-12-28": 1440
     }
   },
   {
@@ -107,8 +106,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 63,
-    "timeDay": 53,
-    "timeWeek": 70,
+    "timeDay": 54,
+    "timeWeek": 60,
     "timeMonth": 59,
     "timeYear": 63,
     "dailyMinutesDown": {}
@@ -125,9 +124,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 447,
-    "timeDay": 290,
-    "timeWeek": 255,
-    "timeMonth": 242,
+    "timeDay": 189,
+    "timeWeek": 251,
+    "timeMonth": 240,
     "timeYear": 343,
     "dailyMinutesDown": {
       "2024-01-22": 29
@@ -145,9 +144,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
-    "timeDay": 152,
-    "timeWeek": 219,
-    "timeMonth": 218,
+    "timeDay": 306,
+    "timeWeek": 237,
+    "timeMonth": 221,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2024-01-22": 29
@@ -164,10 +163,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 481,
-    "timeDay": 289,
-    "timeWeek": 299,
-    "timeMonth": 349,
+    "time": 480,
+    "timeDay": 299,
+    "timeWeek": 324,
+    "timeMonth": 348,
     "timeYear": 425,
     "dailyMinutesDown": {
       "2024-01-22": 29
