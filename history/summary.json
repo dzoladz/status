@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 148,
-    "timeDay": 147,
-    "timeWeek": 179,
-    "timeMonth": 140,
+    "timeDay": 128,
+    "timeWeek": 174,
+    "timeMonth": 139,
     "timeYear": 141,
     "dailyMinutesDown": {
       "2024-04-16": 47
@@ -25,16 +25,16 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "up",
-    "uptime": "55.66%",
+    "uptime": "55.69%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "87.28%",
-    "time": 1234,
-    "timeDay": 1862,
-    "timeWeek": 2031,
-    "timeMonth": 1993,
-    "timeYear": 1782,
+    "uptimeYear": "87.56%",
+    "time": 1237,
+    "timeDay": 1845,
+    "timeWeek": 2033,
+    "timeMonth": 1992,
+    "timeYear": 1786,
     "dailyMinutesDown": {
       "2024-08-09": 64,
       "2024-07-23": 21,
@@ -84,8 +84,7 @@
       "2024-01-07": 1440,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
-      "2024-01-04": 1440,
-      "2024-01-03": 1440
+      "2024-01-04": 1440
     }
   },
   {
@@ -100,8 +99,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 64,
-    "timeDay": 43,
-    "timeWeek": 88,
+    "timeDay": 63,
+    "timeWeek": 89,
     "timeMonth": 68,
     "timeYear": 64,
     "dailyMinutesDown": {}
@@ -118,9 +117,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 448,
-    "timeDay": 258,
-    "timeWeek": 280,
-    "timeMonth": 249,
+    "timeDay": 354,
+    "timeWeek": 303,
+    "timeMonth": 251,
     "timeYear": 345,
     "dailyMinutesDown": {
       "2024-01-22": 29
@@ -138,10 +137,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 313,
-    "timeDay": 245,
-    "timeWeek": 264,
-    "timeMonth": 226,
-    "timeYear": 271,
+    "timeDay": 222,
+    "timeWeek": 252,
+    "timeMonth": 227,
+    "timeYear": 270,
     "dailyMinutesDown": {
       "2024-01-22": 29
     }
@@ -158,8 +157,8 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 481,
-    "timeDay": 316,
-    "timeWeek": 269,
+    "timeDay": 281,
+    "timeWeek": 266,
     "timeMonth": 323,
     "timeYear": 425,
     "dailyMinutesDown": {
