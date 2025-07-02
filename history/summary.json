@@ -4,10 +4,10 @@
     "url": "https://www.derekzoladz.com/",
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "personal-website",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.93%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 149,
@@ -15,7 +15,9 @@
     "timeWeek": 198,
     "timeMonth": 172,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-02": 1
+    }
   },
   {
     "name": "Koha",
@@ -23,18 +25,18 @@
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "koha",
     "status": "down",
-    "uptime": "51.44%",
+    "uptime": "51.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "58.90%",
+    "uptimeYear": "58.68%",
     "time": 2022,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1963,
     "dailyMinutesDown": {
-      "2025-07-02": 22,
+      "2025-07-02": 1167,
       "2025-07-01": 1440,
       "2025-06-30": 1440,
       "2025-06-29": 1440,
@@ -196,18 +198,20 @@
     "url": "https://dzoladz.github.io/curiousitarium/",
     "icon": "https://www.derekzoladz.com/img/icon.png",
     "slug": "curiousitarium-dcz",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 80,
+    "time": 81,
     "timeDay": 281,
     "timeWeek": 115,
     "timeMonth": 111,
     "timeYear": 88,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-07-02": 0
+    }
   },
   {
     "name": "TEDSIG 2020",
