@@ -30,14 +30,14 @@
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "52.21%",
+    "uptimeYear": "52.20%",
     "time": 2027,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 1966,
     "dailyMinutesDown": {
-      "2025-07-26": 657,
+      "2025-07-26": 665,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
       "2025-07-23": 1440,
@@ -279,19 +279,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.45%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 334,
-    "timeDay": 295,
-    "timeWeek": 294,
-    "timeMonth": 356,
+    "time": 335,
+    "timeDay": 376,
+    "timeWeek": 312,
+    "timeMonth": 359,
     "timeYear": 342,
     "dailyMinutesDown": {
-      "2025-07-26": 0
+      "2025-07-26": 8
     }
   }
 ]
