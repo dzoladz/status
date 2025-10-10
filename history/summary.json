@@ -37,7 +37,7 @@
     "timeMonth": 0,
     "timeYear": 1979,
     "dailyMinutesDown": {
-      "2025-10-10": 1227,
+      "2025-10-10": 1235,
       "2025-10-09": 1440,
       "2025-10-08": 1440,
       "2025-10-07": 1440,
@@ -354,19 +354,19 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
+    "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.47%",
+    "uptimeWeek": "99.92%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 338,
-    "timeDay": 586,
-    "timeWeek": 418,
-    "timeMonth": 414,
+    "timeDay": 417,
+    "timeWeek": 397,
+    "timeMonth": 409,
     "timeYear": 344,
     "dailyMinutesDown": {
-      "2025-10-10": 0
+      "2025-10-10": 8
     }
   }
 ]
