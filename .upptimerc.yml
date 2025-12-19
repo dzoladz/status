@@ -7,9 +7,6 @@ sites:
   - name: Personal Website
     url: https://www.derekzoladz.com/
     icon: https://www.derekzoladz.com/img/icon.png
-  - name: Koha
-    url: $SECRET_SITE
-    icon: https://www.derekzoladz.com/img/icon.png
   - name: CuriousitariumDCZ
     url: https://dzoladz.github.io/curiousitarium/
     icon: https://www.derekzoladz.com/img/icon.png
