@@ -84,23 +84,23 @@
     "url": "https://2020.alaoweb.org/",
     "icon": "https://2020.alaoweb.org/img/favicons/favicon.png",
     "slug": "alao-2020",
-    "status": "down",
-    "uptime": "99.99%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.89%",
-    "uptimeYear": "99.98%",
-    "time": 363,
-    "timeDay": 463,
-    "timeWeek": 391,
-    "timeMonth": 377,
-    "timeYear": 363,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "97.44%",
+    "uptimeWeek": "99.63%",
+    "uptimeMonth": "99.81%",
+    "uptimeYear": "99.97%",
+    "time": 364,
+    "timeDay": 507,
+    "timeWeek": 411,
+    "timeMonth": 382,
+    "timeYear": 364,
     "dailyMinutesDown": {
       "2025-10-13": 32,
       "2025-10-20": 24,
       "2025-12-31": 16,
       "2026-05-10": 47,
-      "2026-06-02": 0
+      "2026-06-02": 37
     }
   }
 ]
